@@ -1,12 +1,12 @@
 # Linimasa — Aplikasi Postingan (Next.js + TypeScript)
 
-Studi kasus 2.2 PABWER 2026. Sumber data: [Delcom Open API](https://open-api.delcom.org/docs/1.0/api-posts).
+Studi kasus 2.2 PABWE 2026. Sumber data: [Delcom Open API](https://open-api.delcom.org/docs/1.0/api-posts).
 Stack: Bun, Next.js (App Router, Turbopack), TypeScript, Tailwind CSS v4, Redux Toolkit, SweetAlert2, react-icons (Tabler), Google Font Plus Jakarta Sans, Vitest.
 
 ## Menjalankan
 
 ```bash
-# ganti "username" dengan username kamu, mis. ifs18005-pabwer2026-nextjs
+# ganti "username" dengan username kamu, mis. ifs18004-pabwe2026-nextjs
 bun install
 cp .env.example .env     # NEXT_PUBLIC_DELCOM_BASEURL dan APP_PORT
 bun run dev              # menjalankan src/server.ts (port dari APP_PORT)
