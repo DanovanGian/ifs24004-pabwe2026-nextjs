@@ -124,6 +124,6 @@ Berkas tes tidak ikut dalam pemeriksaan tipe saat build. Untuk memeriksanya, jal
 
 ## Pembuat
 
-- **Nama**: _isi nama kamu_
+- **Nama**: Gian Danovan
 - **NIM**: ifs24004
 - **Mata kuliah**: Pengembangan Aplikasi Web (PABWE) 2026
